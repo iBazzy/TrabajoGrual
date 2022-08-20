@@ -1,0 +1,11 @@
+Modo solo:
+    git init
+    cambios
+    git add . 
+    git commit 
+
+Modo online:
+    git clone 
+    cambios 
+    git commit 
+    git push 
