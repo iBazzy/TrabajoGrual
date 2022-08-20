@@ -2,9 +2,10 @@
     box-sizing: border-box;
   }
   
-  body {
+ .body {
     margin: 0;
     font-family: Arial;
+    background-color: #BBE4F1;
   }
   
   .header {
